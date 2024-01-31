@@ -4,6 +4,7 @@ function sayHi() {
 
 function work() {
      alert('Мотивацию нужно ПОДНЯЯЯЯТЬ!!!');
+     // ...work in progress...
 };
 
 function sayBye() {
