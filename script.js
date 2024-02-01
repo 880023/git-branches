@@ -1,3 +1,5 @@
+const a = 2;
+const b = 3;
 function sayHi() {
      alert('Hello world');
 };
@@ -9,3 +11,9 @@ function work() {
 function sayBye() {
      alert('Goodbye World');
 };
+
+function calculation(a,b) {
+     let calculate = a + b;
+     console.log(calculate);
+     
+}
